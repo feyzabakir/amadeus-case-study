@@ -28,5 +28,5 @@ The response from GET requests should contain a "Content-Type" header with a val
 ## TEST RESULTS
 ![flightsearchtest](https://github.com/feyzabakir/amadeus-case-study/assets/120409251/8e265273-72f4-4061-aeb7-0cbe276dd150)
 
-
-
+## VIDEO
+<a href="https://github.com/feyzabakir/amadeus-case-study/issues/1">Video Link</a>
